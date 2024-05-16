@@ -1,6 +1,6 @@
 
 My Helm Chart
-Helm chart repository provided by danielstudio
+Helm chart repository provided by danielstudio 1
 
 
 
